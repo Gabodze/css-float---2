@@ -1,0 +1,27 @@
+
+
+
+.overflow{
+    margin-top: 9px;
+    margin-left: 12px;
+    width: 232px;
+    height: 297px;
+    border: 1px solid #CCCCCC;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    text-align: left;
+    overflow: hidden;
+    float: inline-start;
+
+}
+
+img{
+    margin-top: 9px;
+    margin-left: 8px;
+    width: 560px;
+    height: 646.53px;
+    float: right;
+
+}
